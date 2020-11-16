@@ -46,7 +46,7 @@ The Task was to:
           •	Your work should be fully commented and your name and student number displayed at the top of your bash script 
 
 
-Basically, this script automatically retrieves information from the ECU website, 
+Basically, the script automatically retrieves information from the ECU website, 
 specifically from the Media Gallery page at:
           https://www.ecu.edu.au/service-centres/MACSC/gallery/gallery.php?folder=ml-2018-campus
 
