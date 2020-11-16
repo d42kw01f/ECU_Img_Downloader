@@ -1,6 +1,6 @@
 # ECU_Img_Downloader
 
-This is one of the projects I did for the ECU CSP2101 Scripting Language unit.
+This is one of the projects I did for the ECU CSP2101 Scripting Language unit. This script works better with Ubuntu.
 
 The Task was to:
 
