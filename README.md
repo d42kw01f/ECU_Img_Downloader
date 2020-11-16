@@ -62,12 +62,3 @@ In order to run the script:
  3. After that run the getimages.sh script:
  
           ./getimages.sh
-
-
-Here are some screen shots from the script:
-
-This the main menu of the program:
-![](ScriptImages/MainLook.PNG)
-
-Options:
-![](ScriptImages/Options.PNG)
