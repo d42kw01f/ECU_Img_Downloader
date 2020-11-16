@@ -47,4 +47,15 @@ This script automatically retrieves information from the ECU website,
 specifically from the Media Gallery page at:
           https://www.ecu.edu.au/service-centres/MACSC/gallery/gallery.php?folder=ml-2018-campus
 
+In order to run the script:
+1. Download the script:
 
+          git clone https://github.com/n4n05h4d0w5/ECU_Img_Downloader.git
+      
+2. Then go to the ECU_Img_Downloaer folder, and change give the getimages.sh file to execution permissions:
+
+          chmod 700 getimages.sh
+          
+ 3. After that run the getimages.sh script:
+ 
+          ./getimages.sh
