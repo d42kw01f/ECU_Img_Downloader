@@ -22,7 +22,10 @@ The Task was to:
           Downloading DSC00213, with the file name DSC00213.jpg, with a file size of 44.32 KB….File Download Complete
           Downloading DSC00219, with the file name DSC00219.jpg, with a file size of 48.39 KB….File Download Complete
           Downloading DSC00231, with the file name DSC00231.jpg, with a file size of 48.28 KB….File Download Complete
-          When the user selects menu item 5) Clean up ALL files, all directories and files created by your script are to be deleted from the system, leaving nothing behind. This means that your tutor’s working directory will be returned to its original state in preparation for the next student to be marked. Please note: this function will be carefully perused before being executed, and if appears that it may delete anything other than the directory and files your script created, it will not be run and no marks for this section will be awarded.
+          When the user selects menu item 5) Clean up ALL files, all directories and files created by your script are to be deleted from the system, leaving nothing behind. 
+          This means that your tutor’s working directory will be returned to its original state in preparation for the next student to be marked. Please note: this function will 
+          be carefully perused before being executed, and if appears that it may delete anything other than the directory and files your script created, it will not be run and 
+          no marks for this section will be awarded.
           Solution Reliability
           •	Each of the command line functions operates as specified
           •	User input errors are trapped and addressed so incorrect/invalid values are not accepted and processed by the script’s code
