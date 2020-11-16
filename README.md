@@ -67,4 +67,10 @@ Here are some screen shots:
 
 This is the main menu of the script:
 ![](ECU_Img_Downloader/ScriptImages/MainLook.PNG)
+
+Running several options with the script:
 ![](ECU_Img_Downloader/ScriptImages/Options.PNG)
+
+
+
+![](ECU_Img_Downloader/ScriptImages/Option4.PNG)
