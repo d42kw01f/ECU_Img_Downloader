@@ -63,7 +63,7 @@ specifically from the Media Gallery page at:
  
           ./getimages.sh
 
-Here are some screen shots:
+# Here are some screenshots::
 
 This is the main menu of the script:
 ![](ECU_Img_Downloader/ScriptImages/MainLook.PNG)
