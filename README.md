@@ -3,6 +3,7 @@
 This is one of the projects I did for the ECU CSP2101 Scripting Language unit.
 
 The Task was to:
+
           Task Brief
           Your task is to write a script solution that displays the following functionality, reliability and quality elements:
           Solution Functionality
