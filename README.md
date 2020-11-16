@@ -63,4 +63,8 @@ In order to run the script:
  
           ./getimages.sh
 
+Here are some screen shots:
+
+This is the main menu of the script:
+![](ECU_Img_Downloader/ScriptImages/MainLook.PNG)
 ![](ECU_Img_Downloader/ScriptImages/Options.PNG)
