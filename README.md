@@ -63,4 +63,4 @@ In order to run the script:
  
           ./getimages.sh
 
-![](ECU_Img_Downloader/ECU_Img_Downloader/ScriptImages/Options.PNG)
+![](ECU_Img_Downloader/ScriptImages/Options.PNG)
