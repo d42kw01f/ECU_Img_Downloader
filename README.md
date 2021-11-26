@@ -53,7 +53,7 @@ specifically from the Media Gallery page at:
 # In order to run the script:
 1. Download the script:
 
-          git clone https://github.com/n4n05h4d0w5/ECU_Img_Downloader.git
+          git clone https://github.com/d42kw01f/ECU_Img_Downloader.git
       
 2. Then go to the ECU_Img_Downloaer folder, and change give the getimages.sh file to execution permissions:
 
